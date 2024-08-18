@@ -1,5 +1,4 @@
-let arr = Array()
-arrlet str = `
+let str = `
 [M9lSoRu6Ka|Nightmare] killed [Valkyrie|ErgoProxy] (+1)
 [BreakBeat|ErgoProxy] killed [Karatel|ChronoCross] (+1)
 [ErgoProxy] holds the Fortress (+10)
